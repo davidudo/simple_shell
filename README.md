@@ -72,5 +72,5 @@ The simple shell should execute programs in response to text commands. All progr
 This file contains the details of all the individuals that contributed to this shell project.
 
 ### Contributors
-1. ToluwaniAJ [Gmail] (toluwaniajibare@gmail.com)
-2. davidudo [Gmail] (udodavid46.ud@gmail.com)
+1. ToluwaniAJ [Gmail](toluwaniajibare@gmail.com)
+2. davidudo [Gmail](udodavid46.ud@gmail.com)
